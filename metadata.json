@@ -1,0 +1,6 @@
+{
+  "name": "NOTTPAY — Digital Wallet",
+  "description": "Fast, simple digital wallet preview for sending money, adding funds, scanning QR codes, and tracking BDT activity.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
